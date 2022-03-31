@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PythonApplication2 (WWAJVj)", "PythonApplication2 (WWAJVj)\PythonApplication2 (WWAJVj).pyproj", "{4876AF30-4FE4-48A0-B0BD-B3D950E96D45}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4876AF30-4FE4-48A0-B0BD-B3D950E96D45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4876AF30-4FE4-48A0-B0BD-B3D950E96D45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9ACC718B-F384-4A46-98EF-E8E28FCC2105}
+	EndGlobalSection
+EndGlobal
